@@ -65,17 +65,7 @@ Dark theme UI for improved visual focus
 
 Designed for presentation to leadership or analytical review
 
-📂 Data (Example Fields)
 
-Dealer Name | Region
-
-Body Style | Transmission | Engine Type
-
-Car Model | Selling Price | Units Sold
-
-Order Date | YTD Indicators
-
-(Adjust based on actual dataset used.)
 
 🧠 Insights This Dashboard Helps Unlock
 
@@ -87,4 +77,5 @@ Order Date | YTD Indicators
 
 
 Dashboard Designed In: Power BI
+
 Project Type: Sales Analytics & Business Intelligence
