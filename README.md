@@ -43,17 +43,9 @@ Sales by Region (Bar Chart): Compares dealership performance geographically
 
 Right-Side Visuals
 
-Sales by Body Style (Donut Chart): Identifies high-demand segments like SUV, Sedan, etc.
+Sales by Body Style, Color
 
-Sales by Color (Donut Chart): Shows consumer preference trends
-
-Company-Wise Sales Table: Displays detailed breakdown of:
-
-Avg Selling Price
-
-Units Sold
-
-Total Sales Contribution %
+Company-Wise Sales Table: Displays detailed breakdown of - Avg Selling Price,Units Sold, Total Sales Contribution %
 
 ⚙️ Features & Interactivity
 
