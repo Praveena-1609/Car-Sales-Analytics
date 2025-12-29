@@ -5,7 +5,8 @@ Car Sales Dashboard – Power BI
 
 The Car Sales Dashboard provides an interactive analytical view of year-to-date (YTD) performance for the automotive business. It highlights sales volume, pricing trends, product segmentation, and dealership productivity. This dashboard supports sales managers, regional heads, and executives in making data-driven business decisions.
 
-Power BI Report link - [Click here](https://app.powerbi.com/links/ezNg41GQqa?ctid=d0462566-956e-4509-8851-032a8ad62e7b&pbi_source=linkShare)
+Power BI Report link - <a href="[https://www.google.com](https://app.powerbi.com/links/ezNg41GQqa?ctid=d0462566-956e-4509-8851-032a8ad62e7b&pbi_source=linkShare)" target="_blank">Click here</a>
+
 
 
 <img width="1288" height="714" alt="image" src="https://github.com/user-attachments/assets/1f61c65e-84a6-4bb9-b479-5a0f3a636850" />
